@@ -8,7 +8,7 @@
 ### Installation & dependencies for base functionality
 * Step 1: install metamod on your server following the documentation correctly https://cs2.poggu.me/metamod/installation/
 * Step 2: specify directory vars for the script to run correctly (mandatory $CS2DIR, $STEAMCMD, and $START_SCRIPT)
-* Step 3: install the screens utility (ubuntu: sudo apt update && sudo apt install screen)
+* Step 3: install the screen utility (sudo apt update && sudo apt install screen)
 * Step 4: make the script executable (sudo chmod +x cs2watchdog.sh)
 
 ### Specify log output.
