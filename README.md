@@ -1,9 +1,9 @@
 # Dedicated-Server-Utilities
 ## CS2Server/cs2watchdog.sh
 ### To make use of the script, it is important that you first ensure you know your:
-- 1: steamcmd installation path
-- 2: cs2 server installation path
-- 3: cs2 server start script path
+- steamcmd installation path
+- cs2 server installation path
+- cs2 server start script path
 
 ### Installation & dependencies for base functionality
 * Step 1: install metamod on your server following the documentation correctly https://cs2.poggu.me/metamod/installation/
