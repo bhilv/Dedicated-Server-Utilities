@@ -22,5 +22,4 @@
 * Use screen -r (screen name) to attach to that screen.
 * Use CTRL + A, then D to detach from a screen and return to your terminal.
 
-* An example of using screens to interact with the server processes, in the order described:
- - <img width="864" height="166" alt="image" src="https://github.com/user-attachments/assets/d95ded78-72ac-4fc2-8978-3e8cea09fd78" />
+* An example of using screens to interact with the server processes, in the order described: <img width="864" height="166" alt="image" src="https://github.com/user-attachments/assets/d95ded78-72ac-4fc2-8978-3e8cea09fd78" />
