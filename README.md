@@ -14,3 +14,5 @@
 
 ### Specify log output.
 - It would also be wise to specify the LOG_DIR and name of the LOG ($LOG_DIR/nameoflog.log) if you wish to change it.
+- An example of correct log output is as follows: <img width="1261" height="217" alt="image" src="https://github.com/user-attachments/assets/e0d23c99-2090-43c1-8471-afb25a60008e" />
+
