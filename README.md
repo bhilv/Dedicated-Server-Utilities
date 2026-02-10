@@ -10,6 +10,7 @@
 * Step 2: specify directory vars for the script to run correctly (mandatory $CS2DIR, $STEAMCMD, and $START_SCRIPT)
 * Step 3: install the screen utility (sudo apt update && sudo apt install screen)
 * Step 4: make the script executable (sudo chmod +x cs2watchdog.sh)
+* Step 5: edit your crontab (crontab -e) to execute the script and log any errors if desired. An example is located in CS2Server Dir.
 
 ### Specify log output.
 - It would also be wise to specify the LOG_DIR and name of the LOG ($LOG_DIR/nameoflog.log) if you wish to change it.
