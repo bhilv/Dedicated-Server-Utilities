@@ -17,7 +17,7 @@
 - An example of correct installation/error free log output is as follows: <img width="1261" height="217" alt="image" src="https://github.com/user-attachments/assets/e0d23c99-2090-43c1-8471-afb25a60008e" />
 
 ### Why Screen Sessions?
-- Screen sessions allow for retaining full control over your terminal at all times, without being inturrupted by processes that would normally run in the forground, like steamcmd updates.
+- Screen sessions allow for retaining full control over your terminal at all times, without being inturrupted by processes that would normally run in the foreground, like steamcmd updates.
 * Use screen -ls to list your current screens!
 * Use screen -r (screen name) to attach to that screen.
 * Use CTRL + A, then D to detach from a screen and return to your terminal.
