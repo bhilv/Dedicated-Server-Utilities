@@ -16,3 +16,11 @@
 - It would also be wise to specify the LOG_DIR and name of the LOG ($LOG_DIR/nameoflog.log) if you wish to change it.
 - An example of correct installation/error free log output is as follows: <img width="1261" height="217" alt="image" src="https://github.com/user-attachments/assets/e0d23c99-2090-43c1-8471-afb25a60008e" />
 
+### Why Screen Sessions?
+- Screen sessions allow for retaining full control over your terminal at all times, without being inturrupted by foreground processes.
+* Use screen -ls to list your current screens!
+* Use screen -r (screen name) to attach to that screen.
+* Use CTRL + A, then D to detach from a screen and return to your terminal.
+
+* An example of using screens to interact with the server processes, in the order described:
+ <img width="864" height="166" alt="image" src="https://github.com/user-attachments/assets/d95ded78-72ac-4fc2-8978-3e8cea09fd78" />
